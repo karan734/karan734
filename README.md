@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @krishna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @KRISHNA BISHWAKARMA
+- 👀 I’m interested in MOBILE APP DEVELOPMENT AND CYBER SECURITY
+- 🌱 I’m currently learning FLUTTER,LARAVEL,WEBDEVELOP,AI,ML,
 - 💞️ I’m looking to collaborate on ...
-- 📫 Krishna 734/Krishna 734 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
